@@ -1,3 +1,4 @@
 tfx
 boto3
 apache-airflow==2.3.0
+configparser
